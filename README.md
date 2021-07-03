@@ -49,6 +49,5 @@ A Library Management System is a software built to handle the primary housekeepi
 
 ### Author
  Rawabe Ebrahim
-### License & Resource
- .....
+
 </div>
